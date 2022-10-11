@@ -21,4 +21,4 @@ I'm actually working on my skills with Javascript so it was a good way to do it.
 <hr>
 It's a simple app, the only improvement I want to do now is to make it responsive. 
 <br>
--
+
