@@ -1,5 +1,5 @@
 # Clock
-##  Demo:  https://restaurant-website-basic.netlify.app/
+##  Demo: https://c-l-o-c-k.netlify.app/
 
 ## Description:
 <hr>
